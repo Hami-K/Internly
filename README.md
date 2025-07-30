@@ -1,6 +1,9 @@
 # INTERNLY — Internship Management System
 
-INTERNLY is a full-stack Node.js + MySQL-based internship management system built for students and companies to manage internship listings, applications as a academic project.
+INTERNLY is a full-stack Node.js + MySQL-based internship management system built for students and companies to manage internship listings, applications and more.
+
+**Note:**
+This was a collaborative academic group project built as part of our assignment. Contributions were made by four team members including myself.
 
 ##  Features
 
